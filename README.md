@@ -1,0 +1,2 @@
+# SpringCloudConfigRepo
+for springcloudconfigrepository
